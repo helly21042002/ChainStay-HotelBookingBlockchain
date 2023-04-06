@@ -32,7 +32,9 @@ Add the following code under "network"
 7. truffle migrate
 (check ganache, new block has been added now)
 
+
 ***************** REACT IMPLEMENTATION *********************
+
 
 8. Create a folder inside the src folder named as "contracts"
 Copy the file Counter.json (available in the build folder) to src
